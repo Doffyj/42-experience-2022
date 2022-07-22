@@ -1,0 +1,3 @@
+ex00: OK | ex01: OK | ex02: OK | ex03: Segmentation fault | ex04: Nothing turned in | ex05: Nothing turned in
+
+45 / 60 / 60 = 60/100
