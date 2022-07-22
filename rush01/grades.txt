@@ -1,0 +1,3 @@
+Lo dicho. Con un nombre de programa distinto, crashea al saltarse los caracteres esperados. Mucho ánimo con las últimas dos semanas de piscina :)
+
+0/100
